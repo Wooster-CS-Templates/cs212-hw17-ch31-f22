@@ -1,6 +1,8 @@
 
 # Overview
 
+DEVELOP THESE APPLICATIONS ON YOUR LINUX VM
+
 Included in this directory are a number of skeletal code fragments, which you
 can fill out to solve various synchronization problems. 
 
